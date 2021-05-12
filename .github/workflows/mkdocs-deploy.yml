@@ -20,11 +20,4 @@ jobs:
           pip install wheel
           pip install mkdocs-minify-plugin
           mkdocs build
-      - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@4.1.3
-        with:
-          branch: gh-pages
-          folder: .
-          clean: true
-          clean-exclude: |
-            CNAME
+          mkdocs gh-deploy --force
