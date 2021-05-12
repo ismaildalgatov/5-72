@@ -20,4 +20,4 @@ jobs:
           pip install wheel
           pip install mkdocs-minify-plugin
           mkdocs build
-          mkdocs gh-deploy --force
+          mkdocs gh-deploy -d docs --force
