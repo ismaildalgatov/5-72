@@ -20,4 +20,9 @@ jobs:
           pip install wheel
           pip install mkdocs-minify-plugin
           mkdocs build
-          mkdocs gh-deploy -d docs --force
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
+          cname: 5-72.com
