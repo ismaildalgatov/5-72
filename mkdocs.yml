@@ -4,6 +4,7 @@ site_url: https://5-72.com
 site_author: Ismail Dalgatov
 site_description: >-
   BusChains'
+docs_dir: mkdocs
 
 # Repository
 repo_name: ismaildalgatov/5-72
