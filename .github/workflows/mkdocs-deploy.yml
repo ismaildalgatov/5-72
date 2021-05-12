@@ -17,6 +17,7 @@ jobs:
       - name: Build docs
         run: |
           pip install -r requirements.txt
+          pip install wheel
           pip install mkdocs-minify-plugin
           mkdocs build
       - name: Deploy
