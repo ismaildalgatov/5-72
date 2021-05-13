@@ -1,0 +1,22 @@
+name: 5-72 site CI
+on:
+  push:
+    branches:
+      - main
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2.3.1
+      - name: Setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      - name: Build docs
+        run: |
+          pip install -r requirements.txt
+          pip install wheel
+          pip install mkdocs-minify-plugin
+          mkdocs build
+          mkdocs gh-deploy --force
