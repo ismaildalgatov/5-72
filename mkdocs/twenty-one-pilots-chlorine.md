@@ -3,6 +3,6 @@ template: overrides/main.html
 title: Chains
 ---
 
-# Vocal
+# Vox
 
-## Vocal-Lead
+## Vox-Lead
