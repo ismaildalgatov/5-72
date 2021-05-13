@@ -1,4 +1,4 @@
 ---
 template: overrides/home.html
-title: 5-72
+title: Home
 ---

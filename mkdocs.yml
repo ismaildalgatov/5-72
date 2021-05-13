@@ -35,14 +35,14 @@ theme:
     - navigation.tabs
   palette:
     - scheme: default
-      primary: slate
-      accent: slate
+      primary: red
+      accent: red
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
     - scheme: slate
-      primary: red
-      accent: red
+      primary: black
+      accent: black
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
