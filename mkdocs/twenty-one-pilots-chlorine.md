@@ -9,7 +9,7 @@ title: Chains
 
 ## Vox-Lead
 
-Chlorine was engineered by Adam Hawkins
+«Chlorine» has been engineered by Adam Hawkins
 !!! error "Warning"
     ``` sh
     Input Signal in Fabfilter was around -20db
