@@ -1,7 +1,9 @@
 ---
 template: overrides/main.html
-title: Chains
+title: Twenty One Pilots - «Chlorine»
 ---
+
+# Twenty One Pilots - «Chlorine»
 
 [![Cover][8]][8]
 

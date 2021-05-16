@@ -3,7 +3,7 @@ site_name: 5FA-72-EVG
 site_url: https://5-72.com
 site_author: Ismail Dalgatov
 site_description: >-
-  BusChains'
+  5-72 is an ambitious project aimed to involve novice musicians into the craft of sound engineering. Using the bus of world-famous artists as an example.
 docs_dir: mkdocs
 
 # Repository
@@ -121,6 +121,7 @@ nav:
     - How it works: chains.md
     - Tracks: 
       - Twenty One Pilots - Chlorine: twenty-one-pilots-chlorine.md
+      - Kendrick Lamar, SZA - All The Stars: kendrick-lamar-sza-all-the-stars.md
 
 # Google Analytics
 google_analytics:
