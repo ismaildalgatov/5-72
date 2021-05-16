@@ -48,9 +48,9 @@ _LF_:
 ```
 _Dynamics_:
 ``` markdown
-* Compress: -5.7db
-* Release: 50Hz
-* Threshold
+* Compress: 3.1
+* Release: 0.10ms
+* Threshold: -2.3db
 ```
 
 ### RCompressor
