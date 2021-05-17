@@ -35,8 +35,8 @@ theme:
     - navigation.tabs
   palette:
     - scheme: default
-      primary: red
-      accent: red
+      primary: indigo
+      accent: indigo
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode

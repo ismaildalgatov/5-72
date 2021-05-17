@@ -76,29 +76,34 @@ Gain: 2.0db
   [4]: assets/images/chains/kendrick-lamar-sza-all-the-stars/q10.png
 
 !!! settings
+_Band-1_:
 ``` markdown
 Band-type: High-pass
 Gain: -0.2db
 Freq: 49Hz
 Q: 7.0
 ```
+_Band-2_:
 ``` markdown
 Band-type: High-pass
 Gain: -0.2db
 Freq: 48Hz
 Q: 7.0
 ```
+_Band-3_:
 ``` markdown
 Band-type: High-pass
 Gain: 0.0db
 Freq: 50Hz
 Q: 7.0
 ```
+_Band-4_:
 ``` markdown
 Gain: -2.4db
 Freq: 250Hz
 Q: 7.0
 ```
+_Band-5_:
 ``` markdown
 Gain: -2.4db
 Freq: 630Hz
