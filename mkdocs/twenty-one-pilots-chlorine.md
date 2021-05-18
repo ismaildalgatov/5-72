@@ -13,9 +13,9 @@ title: Twenty One Pilots - «Chlorine»
 
 ## Piano Loop
 
-### TG-12345
+### TG12345
 
-[![TG-12345][10]][10]
+[![TG12345][10]][10]
 
   [10]: assets/images/chains/twenty-one-pilots-chlorine/bus/pianoloop/tg12345.png
 
@@ -142,7 +142,7 @@ Formula: 811
 Delay 1/16 
 Delay Level: -17db
 Delay High-pass: 173.2Hz
-Delay Low-pass 2849kHz
+Delay Low-pass 2849Hz
 ```
 
 ### RDeEsser
