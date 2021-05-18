@@ -11,7 +11,7 @@ title: Twenty One Pilots - «Chlorine»
 
 «Chlorine» has been engineered by Adam Hawkins.
 
-## PianoLoop
+## Piano Loop
 
 ### TG-12345
 
@@ -43,8 +43,8 @@ _Band-Green_:
 _Band-Purple_:
 ``` markdown
 * Freq: 203.63Hz
-* Q: +2.63db
-* Gain: 1.435
+* Q: 1.435
+* Gain: +2.63db
 ```
 _Band-Blue_:
 ``` markdown
