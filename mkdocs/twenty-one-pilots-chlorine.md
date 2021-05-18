@@ -7,11 +7,52 @@ title: Twenty One Pilots - «Chlorine»
 
 [![Cover][8]][8]
 
-  [8]: assets/images/chains/twenty-one-pilots-chlorine/cover.png
+  [8]: assets/images/chains/twenty-one-pilots-chlorine/cover.jpg
 
+«Chlorine» has been engineered by Adam Hawkins.
+
+## PianoLoop
+
+### TG-12345
+
+[![TG-12345][10]][10]
+
+  [10]: assets/images/chains/twenty-one-pilots-chlorine/bus/pianoloop/tg12345.png
+
+!!! settings
+``` markdown
+Dynamics: Limiter
+Recovery: 9.2
+Treble-Freq: 1.5kHz
+Treble-Gain: 4.0db
+Bass: 1.9db
+Spreed: -1.5
+```
+### Fabfilter Pro-Q2
+
+[![Fabfilter Pro-Q2][9]][9]
+
+  [9]: assets/images/chains/twenty-one-pilots-chlorine/bus/pianoloop/fabfilterproq2.png
+
+!!! settings
+_Band-Green_:
+``` markdown
+* Freq: 96.632Hz
+* Q: 0.938
+```
+_Band-Purple_:
+``` markdown
+* Freq: 203.63Hz
+* Q: +2.63db
+* Gain: 1.435
+```
+_Band-Blue_:
+``` markdown
+* Freq: 10087Hz
+* Q: 0.950
+```
 ## Vox-Lead
 
-«Chlorine» has been engineered by Adam Hawkins
 !!! error "Warning"
     ``` sh
     Input Signal in Fabfilter was around -20db
@@ -22,7 +63,7 @@ title: Twenty One Pilots - «Chlorine»
 
 [![Fabfilter Pro-Q2][1]][1]
 
-  [1]: assets/images/chains/twenty-one-pilots-chlorine/fabfilterproq2.png
+  [1]: assets/images/chains/twenty-one-pilots-chlorine/bus/voxlead/fabfilterproq2.png
 
 !!! settings
 _Band-Green_:
@@ -53,7 +94,7 @@ _Band-Purple_:
 
 [![Scheps 73][2]][2]
 
-  [2]: assets/images/chains/twenty-one-pilots-chlorine/scheps73.png
+  [2]: assets/images/chains/twenty-one-pilots-chlorine/bus/voxlead/scheps73.png
 
 !!! settings
 ``` markdown
@@ -64,7 +105,7 @@ Pre-amp: +5db
 
 [![CLA-76][3]][3]
 
-  [3]: assets/images/chains/twenty-one-pilots-chlorine/cla76.png
+  [3]: assets/images/chains/twenty-one-pilots-chlorine/bus/voxlead/cla76.png
 
 !!! settings
 ``` markdown
@@ -80,7 +121,7 @@ Ratio: 12
 
 [![dbx-160][4]][4]
 
-  [4]: assets/images/chains/twenty-one-pilots-chlorine/dbx-160.png
+  [4]: assets/images/chains/twenty-one-pilots-chlorine/bus/voxlead/dbx-160.png
 
 !!! settings
 ``` markdown
@@ -93,7 +134,7 @@ Output: 3.1db
 
 [![J37][5]][5]
 
-  [5]: assets/images/chains/twenty-one-pilots-chlorine/j37.png
+  [5]: assets/images/chains/twenty-one-pilots-chlorine/bus/voxlead/j37.png
 
 !!! settings
 ``` markdown
@@ -108,7 +149,7 @@ Delay Low-pass 2849kHz
 
 [![RDeEsser][6]][6]
 
-  [6]: assets/images/chains/twenty-one-pilots-chlorine/rdeesser.png
+  [6]: assets/images/chains/twenty-one-pilots-chlorine/bus/voxlead/rdeesser.png
 
 !!! settings
 ``` markdown
@@ -119,7 +160,7 @@ Thresh: -30.5db
 
 [![F6-RTA][7]][7]
 
-  [7]: assets/images/chains/twenty-one-pilots-chlorine/F6-RTA.png
+  [7]: assets/images/chains/twenty-one-pilots-chlorine/bus/voxlead/F6-RTA.png
 
 !!! settings
 _High-pass_:

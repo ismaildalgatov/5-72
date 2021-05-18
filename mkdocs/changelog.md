@@ -4,6 +4,11 @@ template: overrides/main.html
 
 # Changelog
 
+<small>May 18, 2021</small>
+
+- Added Piano Loop for [Twenty One Pilots - «Chlorine»][1]
+  [1]: https://5-72.com/twenty-one-pilots-chlorine/
+
 <small>May 16, 2021</small>
 
 - Added new chain [Kendrick Lamar, SZA - «All The Stars»][2]
