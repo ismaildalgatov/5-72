@@ -3,7 +3,7 @@ site_name: 5FA-72-EVG
 site_url: https://5-72.com
 site_author: Ismail Dalgatov
 site_description: >-
-  5-72 is an open-source documentation for sound-engineers and musicians.
+  5-72 is an open-source documentation from sound-engineers and musicians.
 docs_dir: mkdocs
 
 # Repository

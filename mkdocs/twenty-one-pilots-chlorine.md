@@ -28,9 +28,9 @@ Treble-Gain: 4.0db
 Bass: 1.9db
 Spreed: -1.5
 ```
-### Fabfilter Pro-Q2
+### FabFilter Pro-Q2
 
-[![Fabfilter Pro-Q2][9]][9]
+[![FabFilter Pro-Q2][9]][9]
 
   [9]: assets/images/chains/twenty-one-pilots-chlorine/bus/pianoloop/fabfilterproq2.png
 
@@ -55,13 +55,13 @@ _Band-Blue_:
 
 !!! error "Warning"
     ``` sh
-    Input Signal in Fabfilter was around -20db
+    Input Signal in FabFilter was around -20db
     Vocal has been pre-processed with micro-pitch for stereo-field
     ```
 
-### Fabfilter Pro-Q2
+### FabFilter Pro-Q2
 
-[![Fabfilter Pro-Q2][1]][1]
+[![FabFilter Pro-Q2][1]][1]
 
   [1]: assets/images/chains/twenty-one-pilots-chlorine/bus/voxlead/fabfilterproq2.png
 
