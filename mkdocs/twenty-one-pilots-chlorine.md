@@ -26,7 +26,7 @@ Recovery: 9.2
 Treble-Freq: 1.5kHz
 Treble-Gain: 4.0db
 Bass: 1.9db
-Spreed: -1.5
+Spread: -1.5
 ```
 ### FabFilter Pro-Q2
 

@@ -1,4 +1,4 @@
-name: 5-72 site CI
+name: build
 on:
   push:
     branches:
