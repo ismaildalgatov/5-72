@@ -8,7 +8,7 @@ title: Zola Jesus - «Exhumed»
 
   [1]: assets/images/chains/zola-jesus-exhumed/cover.jpg
 
-[«Exhumed»][12] has been produced, recorded and engineered by [Alex DeGroot][11]
+[«Exhumed»][12] has been co-produced, engineered and mixed by [Alex DeGroot][11]
   [11]: https://alexdg.net/
   [12]: https://www.youtube.com/watch?v=lcJ4ECn8R7E
 ## Vox-Lead
