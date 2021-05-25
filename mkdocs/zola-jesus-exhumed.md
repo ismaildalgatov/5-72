@@ -39,7 +39,7 @@ title: Zola Jesus - «Exhumed»
 ### BF-76
 [![BF-76][3]][3]
 
-  [3]: assets/images/chains/zola-jesus-exhumed/bus/voxleadbf-76.png
+  [3]: assets/images/chains/zola-jesus-exhumed/bus/voxlead/bf-76.png
 !!! settings
     ``` markdown
     * Input: ≈ -28dB
