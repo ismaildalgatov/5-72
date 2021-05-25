@@ -119,9 +119,10 @@ nav:
     - Changelog: changelog.md
   - Chains: 
     - How it works: chains.md
-    - Tracks: 
-      - Twenty One Pilots - Chlorine: twenty-one-pilots-chlorine.md
+    - Tracks:
       - Kendrick Lamar, SZA - All The Stars: kendrick-lamar-sza-all-the-stars.md
+      - Twenty One Pilots - Chlorine: twenty-one-pilots-chlorine.md
+      - Zola Jesus - Exhumed: zola-jesus-exhumed.md
 
 # Google Analytics
 google_analytics:
