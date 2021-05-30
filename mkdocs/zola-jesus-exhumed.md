@@ -9,13 +9,16 @@ title: Zola Jesus - «Exhumed»
   [1]: assets/images/chains/zola-jesus-exhumed/cover.jpg
 
 [«Exhumed»][12] has been co-produced, engineered and mixed by [Alex DeGroot][11]
+
   [11]: https://alexdg.net/
   [12]: https://www.youtube.com/watch?v=lcJ4ECn8R7E
+
 ## Vox-Lead
 ### Hardware
 [![Hardware][2]][2]
 
   [2]: assets/images/chains/zola-jesus-exhumed/bus/voxlead/hardware.jpg
+
 !!! info "Vocal Chain" 
     Peluso P67 Microphone > Rupert Neve Designs 511 Preamp > Inward Connections The Brute Limiter > MOTU 16A Converter > Pro Tools > BF76 Compressor > EQ3 7-Band       
 
@@ -40,6 +43,7 @@ title: Zola Jesus - «Exhumed»
 [![BF-76][3]][3]
 
   [3]: assets/images/chains/zola-jesus-exhumed/bus/voxlead/bf-76.png
+
 !!! settings
     ``` markdown
     * Input: ≈ -28dB
@@ -59,41 +63,35 @@ title: Zola Jesus - «Exhumed»
         * Q: 6dB/oct
         * Freq: 125 Hz
         ```
-
     === "LPF"
         ``` markdown
         * Q: 6dB/oct
         * Freq: 8 kHz
         ```
-
     === "LF"
         ``` markdown
         * Q: 1.00
         * Freq: 311 Hz
         * Gain: -6dB
         ```
-
     === "LMF"
         ``` markdown
         * Q: 2.00
         * Freq: 600 Hz
         * Gain: -3dB
         ```
-
     === "MF"
         ``` markdown
         * Q: 1.00
         * Freq: 1.25 kHz 
         * Gain: -6dB
         ```
-
     === "HMF"
         ``` markdown
         * Q: 1.00
         * Freq: 2.24 kHz
         * Gain: -6dB
         ```
-
     === "HF"
         ``` markdown
         * Q: 1.00
@@ -109,6 +107,7 @@ title: Zola Jesus - «Exhumed»
 [![EQ3 7-Band (Pre Reverb)][5]][5]
 
   [5]: assets/images/chains/zola-jesus-exhumed/bus/voxlead/eq3-7-band-pre-verb.png
+
 !!! settings
     ``` markdown
     HPF: 
@@ -124,6 +123,7 @@ title: Zola Jesus - «Exhumed»
 [![RC-48 Reverb][6]][6]
 
   [6]: assets/images/chains/zola-jesus-exhumed/bus/voxlead/rc-48.png
+
 !!! settings
     ``` markdown
     Large Church preset modified to have no Diffusion or Predelay
@@ -133,6 +133,7 @@ title: Zola Jesus - «Exhumed»
 [![EQ3 7-Band (Post Reverb)][7]][7]
 
   [7]: assets/images/chains/zola-jesus-exhumed/bus/voxlead/eq-7-band-post-verb.png
+
 !!! settings
     === "HPF" 
         ``` markdown
@@ -189,6 +190,7 @@ title: Zola Jesus - «Exhumed»
 [![EQ3 7-Band (Pre Reverb)][8]][8]
 
   [8]: assets/images/chains/zola-jesus-exhumed/bus/voxlead/eq3-7-band-pre-verb2.png
+
 !!! settings
     ``` markdown
     HPF: 
@@ -204,6 +206,7 @@ title: Zola Jesus - «Exhumed»
 [![Echoboy][9]][9]
 
   [9]: assets/images/chains/zola-jesus-exhumed/bus/voxlead/echoboy.png
+
 !!! settings
     ``` markdown
     * Echo Time: 1/8 dot
@@ -258,6 +261,7 @@ title: Zola Jesus - «Exhumed»
 [![addition][10]][10]
 
   [10]: assets/images/chains/zola-jesus-exhumed/addition.jpg
+
 !!! quote
     Oh, one other detail that maybe someone will find interesting: it was recorded in a rented house on the shore of Lake Superior in northern Minnesota in the middle of winter. It was a great environment for inspiration, but not very good for acoustics. The sound reflected off all the glass windows and the waves of the lake are audible in the background of some of the vocal tracks. I guess everything ended up sounding alright in the end though! Here's a picture of my gear set up in the space where we recorded.
 
