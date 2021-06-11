@@ -4,6 +4,11 @@ template: overrides/main.html
 
 # Changelog
 
+<small>June 11, 2021</small>
+
+- Added [Drum machines with 385 Drum sets][4]
+  [4]: https://5-72.com/drum-machines/list/
+
 <small>May 26, 2021</small>
 
 - Added Vox-Lead for [Zola Jesus - «Exhumed»][4]
