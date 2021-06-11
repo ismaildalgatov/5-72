@@ -62,6 +62,8 @@ plugins:
 # Customization
 extra:
   social:
+    - icon: fontawesome/brands/reddit
+      link: https://reddit.com/r/fiveseventwo
     - icon: fontawesome/brands/github
       link: https://github.com/ismaildalgatov
     - icon: fontawesome/brands/twitter
@@ -69,7 +71,7 @@ extra:
     - icon: fontawesome/brands/instagram
       link: https://instagram.com/teamseshisma
     - icon: fontawesome/brands/discord
-      link: https://sesh.link/id
+      link: https://discord.gg/Pqdc2ekkWw
 
 # Extensions
 markdown_extensions:
@@ -123,6 +125,18 @@ nav:
       - Kendrick Lamar, SZA - All The Stars: kendrick-lamar-sza-all-the-stars.md
       - Twenty One Pilots - Chlorine: twenty-one-pilots-chlorine.md
       - Zola Jesus - Exhumed: zola-jesus-exhumed.md
+  - Drum Machines:
+    - List: drum-machines/list.md
+  # - Patches:
+  #   - Tracks: patches/tracks.md
+  # - Discord:
+  #   - Channels: discord/channels.md
+  #   - Rules: discord/rules.md
+  #   - RSS: discord/rss.md
+  # - Forum:
+  #   - About: forum/about.md
+  # - Apps:
+  #   - About: apps/about.md
 
 # Google Analytics
 google_analytics:
