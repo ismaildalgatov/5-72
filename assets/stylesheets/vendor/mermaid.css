@@ -1,0 +1,239 @@
+.node circle,
+.node ellipse,
+.node path,
+.node polygon,
+.node rect {
+  fill: var(--md-mermaid-node-bg-color);
+  stroke: var(--md-mermaid-node-fg-color);
+}
+
+marker {
+  fill: var(--md-mermaid-edge-color) !important;
+}
+
+.edgeLabel .label rect {
+  fill: transparent;
+}
+
+.label {
+  color: var(--md-mermaid-label-fg-color);
+  font-family: var(--md-mermaid-font-family);
+}
+.label foreignobject {
+  overflow: visible;
+  line-height: initial;
+}
+.label div .edgeLabel {
+  color: var(--md-mermaid-label-fg-color);
+}
+
+.edgeLabel,
+.edgeLabel rect {
+  background-color: var(--md-mermaid-label-bg-color);
+  fill: var(--md-mermaid-label-bg-color);
+}
+
+.edgePath .path,
+.flowchart-link {
+  stroke: var(--md-mermaid-edge-color);
+}
+
+.edgePath .arrowheadPath {
+  fill: var(--md-mermaid-edge-color);
+  stroke: none;
+}
+
+.cluster rect {
+  fill: var(--md-default-fg-color--lightest);
+  stroke: var(--md-default-fg-color--lighter);
+}
+
+g.classGroup line,
+g.classGroup rect {
+  fill: var(--md-mermaid-node-bg-color);
+  stroke: var(--md-mermaid-node-fg-color);
+}
+g.classGroup text {
+  font-family: var(--md-mermaid-font-family);
+  fill: var(--md-mermaid-label-fg-color);
+}
+
+.classLabel .box {
+  background-color: var(--md-mermaid-label-bg-color);
+  opacity: 1;
+  fill: var(--md-mermaid-label-bg-color);
+}
+.classLabel .label {
+  font-family: var(--md-mermaid-font-family);
+  fill: var(--md-mermaid-label-fg-color);
+}
+
+.relation {
+  stroke: var(--md-mermaid-edge-color);
+}
+
+.cardinality {
+  font-family: var(--md-mermaid-font-family);
+  fill: var(--md-mermaid-label-fg-color);
+}
+.cardinality text {
+  fill: inherit !important;
+}
+
+#extensionStart,
+#extensionEnd,
+#compositionStart,
+#compositionEnd,
+#dependencyStart,
+#dependencyEnd {
+  fill: var(--md-mermaid-edge-color) !important;
+  stroke: var(--md-mermaid-edge-color) !important;
+}
+
+#aggregationStart,
+#aggregationEnd {
+  fill: var(--md-mermaid-label-bg-color) !important;
+  stroke: var(--md-mermaid-edge-color) !important;
+}
+
+g.stateGroup rect {
+  fill: var(--md-mermaid-node-bg-color);
+  stroke: var(--md-mermaid-node-fg-color);
+}
+g.stateGroup .state-title {
+  font-family: var(--md-mermaid-font-family);
+  fill: var(--md-mermaid-label-fg-color) !important;
+}
+g.stateGroup .composit {
+  fill: var(--md-mermaid-label-bg-color);
+}
+
+.nodeLabel {
+  color: var(--md-mermaid-label-fg-color);
+  font-family: var(--md-mermaid-font-family);
+}
+
+.start-state,
+.node circle.state-start,
+.node circle.state-end {
+  fill: var(--md-mermaid-edge-color);
+  stroke: none;
+}
+
+.end-state-outer,
+.end-state-inner {
+  fill: var(--md-mermaid-edge-color);
+}
+
+.end-state-inner,
+.node circle.state-end {
+  stroke: var(--md-mermaid-label-bg-color);
+}
+
+.transition {
+  stroke: var(--md-mermaid-edge-color);
+}
+
+[id^=state-fork] rect,
+[id^=state-join] rect {
+  fill: var(--md-mermaid-edge-color) !important;
+  stroke: none !important;
+}
+
+.statediagram-cluster.statediagram-cluster .inner {
+  fill: var(--md-default-bg-color);
+}
+.statediagram-cluster rect {
+  fill: var(--md-mermaid-node-bg-color);
+  stroke: var(--md-mermaid-node-fg-color);
+}
+
+.statediagram-state rect.divider {
+  fill: var(--md-default-fg-color--lightest);
+  stroke: var(--md-default-fg-color--lighter);
+}
+
+.entityBox {
+  fill: var(--md-mermaid-label-bg-color);
+  stroke: var(--md-mermaid-node-fg-color);
+}
+
+.entityLabel {
+  font-family: var(--md-mermaid-font-family);
+  fill: var(--md-mermaid-label-fg-color);
+}
+
+.relationshipLabelBox {
+  background-color: var(--md-mermaid-label-bg-color);
+  opacity: 1;
+  fill: var(--md-mermaid-label-bg-color);
+  fill-opacity: 1;
+}
+
+.relationshipLabel {
+  fill: var(--md-mermaid-label-fg-color);
+}
+
+.relationshipLine {
+  stroke: var(--md-mermaid-edge-color);
+}
+
+#ZERO_OR_ONE_START *,
+#ZERO_OR_ONE_END *,
+#ZERO_OR_MORE_START *,
+#ZERO_OR_MORE_END *,
+#ONLY_ONE_START *,
+#ONLY_ONE_END *,
+#ONE_OR_MORE_START *,
+#ONE_OR_MORE_END * {
+  stroke: var(--md-mermaid-edge-color) !important;
+}
+
+#ZERO_OR_MORE_START circle,
+#ZERO_OR_MORE_END circle {
+  fill: var(--md-mermaid-label-bg-color);
+}
+
+.actor {
+  fill: var(--md-mermaid-label-bg-color);
+  stroke: var(--md-mermaid-node-fg-color);
+}
+
+text.actor > tspan {
+  font-family: var(--md-mermaid-font-family);
+  fill: var(--md-mermaid-label-fg-color);
+}
+
+.actor-line,
+.messageLine0,
+.messageLine1 {
+  stroke: var(--md-mermaid-edge-color);
+}
+
+.messageText,
+.loopText > tspan {
+  font-family: var(--md-mermaid-font-family) !important;
+  fill: var(--md-mermaid-edge-color);
+  stroke: none;
+}
+
+#arrowhead path {
+  fill: var(--md-mermaid-edge-color);
+  stroke: none;
+}
+
+.loopLine {
+  fill: var(--md-mermaid-node-bg-color);
+  stroke: var(--md-mermaid-node-fg-color);
+}
+
+.labelBox {
+  fill: var(--md-mermaid-node-bg-color);
+  stroke: none;
+}
+
+.labelText,
+.labelText > span {
+  font-family: var(--md-mermaid-font-family);
+  fill: var(--md-mermaid-node-fg-color);
+}
