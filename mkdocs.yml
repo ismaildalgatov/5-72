@@ -1,23 +1,20 @@
 # Project information
 site_name: 5FA-72-EVG
-site_url: https://5-72.com
+site_url: https://5-72.com/
 site_author: Ismail Dalgatov
 site_description: >-
   5-72 is an open-source documentation from sound-engineers and musicians.
-docs_dir: mkdocs
-
 # Repository
 repo_name: ismaildalgatov/5-72
 repo_url: https://github.com/ismaildalgatov/5-72
-edit_uri: ""
 
 # Copyright
-copyright: Copyright &copy; 2020 - 2021 Ismail Dalgatov
+copyright: Copyright &copy; 2020 - 2022 Ismail Dalgatov
 
 # Configuration
 theme:
-  name: material
-  custom_dir: material
+  name: null
+  custom_dir: !ENV [THEME_DIR, "material"]
 
   # Static files
   static_templates:
@@ -30,12 +27,15 @@ theme:
   # Default values, taken from mkdocs_theme.yml
   language: en
   features:
+    # - announce.dismiss
     - content.code.annotate
-    - content.tabs.link
-    # - header.autohide
+    # - content.tabs.link
+    - content.tooltips
+    - header.autohide
     # - navigation.expand
-    # - navigation.indexes
-    # - navigation.instant
+    - navigation.indexes
+    - navigation.instant
+    # - navigation.prune
     - navigation.sections
     - navigation.tabs
     # - navigation.tabs.sticky
@@ -44,19 +44,20 @@ theme:
     - search.highlight
     - search.share
     - search.suggest
+    - toc.follow
     # - toc.integrate
   palette:
     - scheme: default
       primary: indigo
       accent: indigo
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/brightness-7
         name: Switch to dark mode
     - scheme: slate
-      primary: black
-      accent: black
+      primary: indigo
+      accent: indigo
       toggle:
-        icon: material/toggle-switch
+        icon: material/brightness-4
         name: Switch to light mode
   font:
     text: Roboto
@@ -68,24 +69,34 @@ theme:
 # Plugins
 plugins:
   - search
-  - minify:
-      minify_html: true
+#  - redirects:
+#      redirect_maps:
+#        changelog/insiders.md: insiders/changelog.md
+#        conventions.md: philosophy.md
+#        reference/abbreviations.md: reference/tooltips.md
+#        reference/meta-tags.md: reference/index.md
+#        reference/variables.md: https://mkdocs-macros-plugin.readthedocs.io/
+#        sponsorship.md: insiders/index.md
+#        upgrading.md: upgrade.md
+#  - minify:
+#      minify_html: true
 
 # Customization
 extra:
-  disqus: 5-72
-  generator: false
+  analytics:
+    provider: google
+    property: !ENV GOOGLE_ANALYTICS_KEY
   social:
-    - icon: fontawesome/brands/reddit
-      link: https://reddit.com/r/fiveseventwo
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/Pqdc2ekkWw
     - icon: fontawesome/brands/github
       link: https://github.com/ismaildalgatov
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/teamseshisma
     - icon: fontawesome/brands/instagram
       link: https://instagram.com/teamseshisma
-    - icon: fontawesome/brands/discord
-      link: https://discord.gg/Pqdc2ekkWw
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/ismaildalgatov
 
 # Extensions
 markdown_extensions:
@@ -104,12 +115,12 @@ markdown_extensions:
   - pymdownx.betterem:
       smart_enable: all
   - pymdownx.caret
-  - pymdownx.critic
   - pymdownx.details
-#   - pymdownx.emoji:
-#       emoji_index: !!python/name:materialx.emoji.twemoji
-#       emoji_generator: !!python/name:materialx.emoji.to_svg
-  - pymdownx.highlight
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:materialx.emoji.twemoji
+  - pymdownx.highlight:
+      anchor_linenums: true
   - pymdownx.inlinehilite
   - pymdownx.keys
   - pymdownx.magiclink:
@@ -123,37 +134,23 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
-  - pymdownx.tabbed
+  - pymdownx.tabbed:
+      alternate_style: true
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
 
 # Page tree
 nav:
-  - Home: index.md
-  - Readme: 
-    - About 5-72: about.md
-    - Changelog: changelog.md
-  - Chains: 
-    - How it works: chains.md
-    - Tracks:
-      - Kendrick Lamar, SZA - All The Stars: kendrick-lamar-sza-all-the-stars.md
-      - Twenty One Pilots - Chlorine: twenty-one-pilots-chlorine.md
-      - Zola Jesus - Exhumed: zola-jesus-exhumed.md
-  - Drum Machines:
-    - List: drum-machines/list.md
-  # - Patches:
-  #   - Tracks: patches/tracks.md
-  # - Discord:
-  #   - Channels: discord/channels.md
-  #   - Rules: discord/rules.md
-  #   - RSS: discord/rss.md
-  # - Forum:
-  #   - About: forum/about.md
-  # - Apps:
-  #   - About: apps/about.md
-
-# Google Analytics
-google_analytics:
-  - !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
-  - auto
+  - Didactic-material:
+    - index.md
+    - Chains:
+        - Zola Jesus - Exhumed: zola-jesus-exhumed.md
+        - Arigto - Threat that lies in despair: arigto-threat-that-lies-in-despair.md
+        - Kendrick Lamar, SZA - All The Stars: kendrick-lamar-sza-all-the-stars.md
+        - Twenty One Pilots - Chlorine: twenty-one-pilots-chlorine.md
+        - The Monuments, Mick Gordon - Lavos: monuments-mick-gordon-lavos.md
+        - The Weeknd - Alone Again: the-weeknd-alone-again.md
+        - Other:
+            - Drum Machines: drum-machines/list.md
+  - Changelog: changelog.md
