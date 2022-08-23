@@ -7,6 +7,7 @@ title: Changelog
 ### <small>August 23, 2022</small>
 
 - Complete restructuring (Work In Progress)
+- Github discussions
 
 ### <small>March 5, 2022</small>
 
