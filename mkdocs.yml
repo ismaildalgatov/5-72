@@ -142,7 +142,7 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Data-base:
+  - Database:
     - index.md
     - Chains:
         - Zola Jesus - Exhumed: zola-jesus-exhumed.md
