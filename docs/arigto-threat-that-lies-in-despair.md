@@ -4,9 +4,9 @@ title: Arigto - «Threat that lies in despair»
 
 # Arigto - «Threat that lies in despair»
 
-[![Cover][1]][1]
-
-[1]: assets/images/chains//arigto-threat-that-lies-in-despair/cover.png
+<figure>
+  <img src="https://5-72.com/assets/images/chains/arigto-threat-that-lies-in-despair/cover.png"/>
+</figure>
 
 
 Listen on [Spotify][1] & [Bandcamp][2]
