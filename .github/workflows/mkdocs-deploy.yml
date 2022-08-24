@@ -17,6 +17,7 @@ jobs:
         run: |
           pip install -r requirements.txt
           pip install wheel
+          pip install mkdocs-redirects
           pip install mkdocs-minify-plugin
           pip install mkdocs-git-revision-date-localized-plugin
           mkdocs build
