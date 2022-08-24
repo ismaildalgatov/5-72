@@ -1,4 +1,5 @@
 ---
+template: overrides/blog.html
 title: Kendrick Lamar, SZA - «All The Stars»
 ---
 

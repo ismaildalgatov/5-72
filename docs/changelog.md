@@ -1,4 +1,5 @@
 ---
+template: overrides/blog.html
 title: Changelog
 ---
 
@@ -53,20 +54,3 @@ title: Changelog
 
 - Added first chain [Twenty One Pilots - «Chlorine»][1]
   [1]: https://5-72.com/twenty-one-pilots-chlorine/
-
-<script src="https://giscus.app/client.js"
-        data-repo="ismaildalgatov/5-72"
-        data-repo-id="MDEwOlJlcG9zaXRvcnkzNjY4NzM1NDM="
-        data-category="General"
-        data-category-id="MDE4OkRpc2N1c3Npb25DYXRlZ29yeTMyOTI1NzQ3"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="light"
-        data-lang="en"
-        data-loading="lazy"
-        crossorigin="anonymous"
-        async>
-</script>

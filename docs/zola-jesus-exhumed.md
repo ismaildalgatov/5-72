@@ -1,4 +1,5 @@
 ---
+template: overrides/blog.html
 title: Zola Jesus - «Exhumed»
 ---
 

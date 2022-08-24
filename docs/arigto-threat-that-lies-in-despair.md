@@ -1,4 +1,5 @@
 ---
+template: overrides/blog.html
 title: Arigto - «Threat that lies in despair»
 ---
 

@@ -51,13 +51,13 @@ theme:
       primary: indigo
       accent: indigo
       toggle:
-        icon: material/brightness-7
+        icon: material/toggle-switch-off-outline
         name: Switch to dark mode
     - scheme: slate
       primary: indigo
       accent: indigo
       toggle:
-        icon: material/brightness-4
+        icon: material/toggle-switch
         name: Switch to light mode
   font:
     text: Roboto
@@ -68,6 +68,7 @@ theme:
 
 # Plugins
 plugins:
+  - git-revision-date-localized
   - search
 #  - redirects:
 #      redirect_maps:
@@ -116,9 +117,9 @@ markdown_extensions:
       smart_enable: all
   - pymdownx.caret
   - pymdownx.details
-#  - pymdownx.emoji:
-#      emoji_generator: !!python/name:materialx.emoji.to_svg
-#      emoji_index: !!python/name:materialx.emoji.twemoji
+  #  - pymdownx.emoji:
+  #      emoji_generator: !!python/name:materialx.emoji.to_svg
+  #      emoji_index: !!python/name:materialx.emoji.twemoji
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
@@ -143,14 +144,14 @@ markdown_extensions:
 # Page tree
 nav:
   - Database:
-    - index.md
-    - Chains:
-        - Zola Jesus - Exhumed: zola-jesus-exhumed.md
-        - Arigto - Threat that lies in despair: arigto-threat-that-lies-in-despair.md
-        - Kendrick Lamar, SZA - All The Stars: kendrick-lamar-sza-all-the-stars.md
-        - Twenty One Pilots - Chlorine: twenty-one-pilots-chlorine.md
-        - The Monuments, Mick Gordon - Lavos: monuments-mick-gordon-lavos.md
-        - The Weeknd - Alone Again: the-weeknd-alone-again.md
-        - Other:
-            - Drum Machines: drum-machines/list.md
+      - index.md
+      - Chains:
+          - Zola Jesus - Exhumed: zola-jesus-exhumed.md
+          - Arigto - Threat that lies in despair: arigto-threat-that-lies-in-despair.md
+          - Kendrick Lamar, SZA - All The Stars: kendrick-lamar-sza-all-the-stars.md
+          - Twenty One Pilots - Chlorine: twenty-one-pilots-chlorine.md
+          - The Monuments, Mick Gordon - Lavos: monuments-mick-gordon-lavos.md
+          - The Weeknd - Alone Again: the-weeknd-alone-again.md
+          - Other:
+              - Drum Machines: drum-machines/list.md
   - Changelog: changelog.md

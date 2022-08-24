@@ -1,4 +1,5 @@
 ---
+template: overrides/blog.html
 title: Twenty One Pilots - «Chlorine»
 ---
 
