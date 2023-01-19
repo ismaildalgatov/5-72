@@ -5,6 +5,12 @@ title: Changelog
 
 # Changelog
 
+### <small>January 20, 2023</small>
+
+- Added Vox-Lead [The Weeknd - «Alone Again»][9]
+- Docs restructuring (Work In Progress)
+  [9]: https://5-72.com/the-weeknd-alone-again/
+
 ### <small>August 23, 2022</small>
 
 - Complete restructuring (Work In Progress)
