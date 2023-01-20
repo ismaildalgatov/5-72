@@ -6,7 +6,7 @@ title: Kendrick Lamar, SZA - «All The Stars»
 # Kendrick Lamar, SZA - «All The Stars»
 [![Cover][1]][1]
 
-  [1]: assets/images/chains/kendrick-lamar-sza-all-the-stars/cover.png
+  [1]: assets/images/chains/003-kendrick-lamar-sza-all-the-stars/cover.png
 
 [«All The Stars»][31] has been engineered by [Matt Schaeffer][32]
 
@@ -18,7 +18,7 @@ title: Kendrick Lamar, SZA - «All The Stars»
 ### SSL Channel   
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/kendrick-lamar-sza-all-the-stars/sslchannel.png" width="400" />
+  <img src="https://5-72.com/assets/images/chains/003-kendrick-lamar-sza-all-the-stars/bus/voxlead/sza/001-sslchannel.png" width="400" />
 </figure>
 
 === "Filters"
@@ -68,7 +68,7 @@ title: Kendrick Lamar, SZA - «All The Stars»
 ### RCompressor
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/kendrick-lamar-sza-all-the-stars/rcompressor.png" width="450" />
+  <img src="https://5-72.com/assets/images/chains/003-kendrick-lamar-sza-all-the-stars/bus/voxlead/sza/002-rcompressor.png" width="450" />
 </figure>
 
 === "Settings"
@@ -85,7 +85,7 @@ title: Kendrick Lamar, SZA - «All The Stars»
 ### Q10
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/kendrick-lamar-sza-all-the-stars/q10.png" width="450" />
+  <img src="https://5-72.com/assets/images/chains/003-kendrick-lamar-sza-all-the-stars/bus/voxlead/sza/003-q10.png" width="450" />
 </figure>
 
 === "Band-1"
@@ -134,7 +134,7 @@ title: Kendrick Lamar, SZA - «All The Stars»
 ### DeEsser
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/kendrick-lamar-sza-all-the-stars/deesser.png" width="450" />
+  <img src="https://5-72.com/assets/images/chains/003-kendrick-lamar-sza-all-the-stars/bus/voxlead/sza/004-deesser.png" width="450" />
 </figure>
 
 === "Settings"
@@ -147,7 +147,7 @@ title: Kendrick Lamar, SZA - «All The Stars»
 ### CLA-2A
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/kendrick-lamar-sza-all-the-stars/cla2a.png" width="600" />
+  <img src="https://5-72.com/assets/images/chains/003-kendrick-lamar-sza-all-the-stars/bus/voxlead/sza/005-cla2a.png" width="600" />
 </figure>
 
 === "Settings"
@@ -161,7 +161,7 @@ title: Kendrick Lamar, SZA - «All The Stars»
 ### PuigTec EQP1A
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/kendrick-lamar-sza-all-the-stars/puigtecheqp1a.png" width="650" />
+  <img src="https://5-72.com/assets/images/chains/003-kendrick-lamar-sza-all-the-stars/bus/voxlead/sza/005-puigtecheqp1a.png" width="650" />
 </figure>
 
 === "Settings"
@@ -181,7 +181,7 @@ title: Kendrick Lamar, SZA - «All The Stars»
 ### Decapitator
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/kendrick-lamar-sza-all-the-stars/decapitator.png" width="600" />
+  <img src="https://5-72.com/assets/images/chains/003-kendrick-lamar-sza-all-the-stars/bus/voxlead/sza/006-decapitator.png" width="600" />
 </figure>
 
 === "Settings"
@@ -194,7 +194,7 @@ title: Kendrick Lamar, SZA - «All The Stars»
 ### FabFilter Pro-Q 2
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/kendrick-lamar-sza-all-the-stars/fabfilterproq2.png" width="650" />
+  <img src="https://5-72.com/assets/images/chains/003-kendrick-lamar-sza-all-the-stars/bus/voxlead/sza/007-fabfilterproq2.png" width="650" />
 </figure>
 
 === "Band-Purple"

@@ -6,4 +6,4 @@ title: Monuments & Mick Gordon - «Lavos»
 # Monuments & Mick Gordon - «Lavos»
 [![Cover][1]][1]
 
-[1]: assets/images/chains/monuments-mick-gordon-lavos/monuments-mick-gordon-lavos-cover.png
+[1]: assets/images/chains/005-monuments-mick-gordon-lavos/cover.png

@@ -1,6 +1,6 @@
 ---
 template: overrides/blog.html
-title: Changelog
+title: What's new?
 ---
 
 # Changelog
@@ -8,7 +8,10 @@ title: Changelog
 ### <small>January 20, 2023</small>
 
 - Added Vox-Lead [The Weeknd - «Alone Again»][9]
-- Docs restructuring (Work In Progress)
+- Assets & docs restructuring (Work In Progress)
+- Update Index page and Changelog titles
+- Change menu structure
+- Added Search tags for Home Page
   [9]: https://5-72.com/the-weeknd-alone-again/
 
 ### <small>August 23, 2022</small>

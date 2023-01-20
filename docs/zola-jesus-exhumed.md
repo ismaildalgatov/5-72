@@ -6,7 +6,7 @@ title: Zola Jesus - «Exhumed»
 # Zola Jesus - «Exhumed»
 [![Cover][33]][33]
 
-  [33]: assets/images/chains/zola-jesus-exhumed/cover.png
+  [33]: assets/images/chains/001-zola-jesus-exhumed/cover.png
 
 [«Exhumed»][12] has been co-produced, engineered and mixed by [Alex DeGroot][11]
 
@@ -14,15 +14,17 @@ title: Zola Jesus - «Exhumed»
   [12]: https://www.youtube.com/watch?v=lcJ4ECn8R7E
 
 ## Vox-Lead
+
 ### Hardware
 [![Hardware][2]][2]
 
-  [2]: assets/images/chains/zola-jesus-exhumed/bus/voxlead/hardware.jpg
+  [2]: assets/images/chains/001-zola-jesus-exhumed/bus/mix/001-hardware.jpg
 
 !!! info "Vocal Chain" 
     Peluso P67 Microphone > Rupert Neve Designs 511 Preamp > Inward Connections The Brute Limiter > MOTU 16A Converter > Pro Tools > BF76 Compressor > EQ3 7-Band       
 
 ### RND 511 Preamp
+
 === "Settings"
 
     ``` yaml
@@ -33,6 +35,7 @@ title: Zola Jesus - «Exhumed»
     ```
 
 ### Inward Connections Brute
+
 === "Settings"
 
     ``` yaml
@@ -44,7 +47,7 @@ title: Zola Jesus - «Exhumed»
 ### BF-76
 [![BF-76][3]][3]
 
-  [3]: assets/images/chains/zola-jesus-exhumed/bus/voxlead/bf-76.png
+  [3]: assets/images/chains/001-zola-jesus-exhumed/bus/voxlead/001-bf-76.png
 
 === "Settings"
 
@@ -58,7 +61,7 @@ title: Zola Jesus - «Exhumed»
 ### EQ3 7-Band
 [![EQ3 7-Band][4]][4]
 
-  [4]: assets/images/chains/zola-jesus-exhumed/bus/voxlead/eq3-7-band.png
+  [4]: assets/images/chains/001-zola-jesus-exhumed/bus/voxlead/002-eq3-7-band.png
 
 === "HPF"
 
@@ -116,7 +119,7 @@ title: Zola Jesus - «Exhumed»
 ### EQ3 7-Band (Pre Reverb)
 [![EQ3 7-Band (Pre Reverb)][5]][5]
 
-  [5]: assets/images/chains/zola-jesus-exhumed/bus/voxlead/eq3-7-band-pre-verb.png
+  [5]: assets/images/chains/001-zola-jesus-exhumed/bus/voxlead/003-eq3-7-band-pre-verb.png
 
 
 === "HPF"
@@ -136,7 +139,7 @@ title: Zola Jesus - «Exhumed»
 ### RC-48 Reverb
 [![RC-48 Reverb][6]][6]
 
-  [6]: assets/images/chains/zola-jesus-exhumed/bus/voxlead/rc-48.png
+  [6]: assets/images/chains/001-zola-jesus-exhumed/bus/voxlead/004-rc-48.png
 
 === "Settings"
 
@@ -147,7 +150,7 @@ title: Zola Jesus - «Exhumed»
 ### EQ3 7-Band (Post Reverb)
 [![EQ3 7-Band (Post Reverb)][7]][7]
 
-  [7]: assets/images/chains/zola-jesus-exhumed/bus/voxlead/eq-7-band-post-verb.png
+  [7]: docs/assets/images/chains/001-zola-jesus-exhumed/bus/voxlead/005-eq-7-band-post-verb.png
 
 === "HPF" 
 
@@ -210,7 +213,7 @@ title: Zola Jesus - «Exhumed»
 ### EQ3 7-Band (Pre Reverb)
 [![EQ3 7-Band (Pre Reverb)][8]][8]
 
-  [8]: assets/images/chains/zola-jesus-exhumed/bus/voxlead/eq3-7-band-pre-verb2.png
+  [8]: assets/images/chains/001-zola-jesus-exhumed/bus/voxlead/006-eq3-7-band-pre-verb2.png
 
 === "HPF"
 
@@ -229,7 +232,7 @@ title: Zola Jesus - «Exhumed»
 ### Echoboy
 [![Echoboy][9]][9]
 
-  [9]: assets/images/chains/zola-jesus-exhumed/bus/voxlead/echoboy.png
+  [9]: assets/images/chains/001-zola-jesus-exhumed/bus/voxlead/007-echoboy.png
 
 === "Settings"
 
@@ -246,6 +249,7 @@ title: Zola Jesus - «Exhumed»
     MOTU 16A > Thermionic Culture Little Red Bustard 16 Channel Tube Summing Mixer > TK Audio BC501 Compressor > TK Audio TK-lizer 500 EQ > Apogee Rosetta 200 Converter
 
 ### Little Red Bustard
+
 === "Settings"
 
     ``` yaml
@@ -255,6 +259,7 @@ title: Zola Jesus - «Exhumed»
     ```
 
 ### TK BC501
+
 === "Settings"
 
     ``` yaml
@@ -268,6 +273,7 @@ title: Zola Jesus - «Exhumed»
     ```
 
 ### TK-lizer
+
 === "Settings"
 
     ``` yaml
@@ -304,7 +310,7 @@ title: Zola Jesus - «Exhumed»
 ## + addition from Alex DeGroot
 [![addition][10]][10]
 
-  [10]: assets/images/chains/zola-jesus-exhumed/addition.jpg
+  [10]: assets/images/chains/001-zola-jesus-exhumed/addition.jpg
 
 !!! quote
     Oh, one other detail that maybe someone will find interesting: it was recorded in a rented house on the shore of Lake Superior in northern Minnesota in the middle of winter. It was a great environment for inspiration, but not very good for acoustics. The sound reflected off all the glass windows and the waves of the lake are audible in the background of some of the vocal tracks. I guess everything ended up sounding alright in the end though! Here's a picture of my gear set up in the space where we recorded.

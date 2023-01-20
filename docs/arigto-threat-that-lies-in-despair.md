@@ -6,7 +6,7 @@ title: Arigto - «Threat that lies in despair»
 # Arigto - «Threat that lies in despair»
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/arigto-threat-that-lies-in-despair/cover.png"/>
+  <img src="https://5-72.com/assets/images/chains/002-arigto-threat-that-lies-in-despair/cover.png"/>
 </figure>
 
 
@@ -22,13 +22,13 @@ Listen on [Spotify][1] & [Bandcamp][2]
 ### Prophet-6
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/arigto-threat-that-lies-in-despair/bus/prophet-6.jpg" width="700" />
+  <img src="https://5-72.com/assets/images/chains/002-arigto-threat-that-lies-in-despair/bus/bass/001-prophet-6.jpg" width="700" />
 </figure>
 
 ### E-TubeTape Warmer
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/arigto-threat-that-lies-in-despair/bus/e-tubetape-warmer.png" width="600" />
+  <img src="https://5-72.com/assets/images/chains/002-arigto-threat-that-lies-in-despair/bus/bass/002-e-tubetape-warmer.png" width="600" />
 </figure>
 
 === "Settings"
@@ -46,7 +46,7 @@ Listen on [Spotify][1] & [Bandcamp][2]
 ### TR5 Bus Compressor
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/arigto-threat-that-lies-in-despair/bus/tr5-bus-compressor.png" width="600" />
+  <img src="https://5-72.com/assets/images/chains/002-arigto-threat-that-lies-in-despair/bus/bass/003-tr5-bus-compressor.png" width="600" />
 </figure>
 
 === "Settings"
@@ -63,7 +63,7 @@ Listen on [Spotify][1] & [Bandcamp][2]
 ### FabFilter Pro-Q3
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/arigto-threat-that-lies-in-despair/bus/fabfilter-pro-q3-1.png" width="700" />
+  <img src="https://5-72.com/assets/images/chains/002-arigto-threat-that-lies-in-despair/bus/bass/004-fabfilter-pro-q3.png" width="700" />
 </figure>
 
 === "EQ Band (Left)"
@@ -99,7 +99,7 @@ Listen on [Spotify][1] & [Bandcamp][2]
 ### British Tone Equalizer BQ2S
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/arigto-threat-that-lies-in-despair/bus/british-tone-equalizer-bq2s.png" width="700" />
+  <img src="https://5-72.com/assets/images/chains/002-arigto-threat-that-lies-in-despair/bus/bass/005-british-tone-equalizer-bq2s.png" width="700" />
 </figure>
 
 === "Settings"
@@ -121,7 +121,7 @@ Listen on [Spotify][1] & [Bandcamp][2]
 ### FabFilter Pro-Q3
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/arigto-threat-that-lies-in-despair/bus/fabfilter-pro-q3-2.png" width="700" />
+  <img src="https://5-72.com/assets/images/chains/002-arigto-threat-that-lies-in-despair/bus/bass/006-fabfilter-pro-q3.png" width="700" />
 </figure>
 
 === "EQ Band (Left)"
@@ -157,7 +157,7 @@ Listen on [Spotify][1] & [Bandcamp][2]
 ### AutoPan
 
 <figure>
-<img src="https://5-72.com/assets/images/chains/arigto-threat-that-lies-in-despair/bus/autopan.png" width="300" />
+<img src="https://5-72.com/assets/images/chains/002-arigto-threat-that-lies-in-despair/bus/bass/007-autopan.png" width="300" />
 </figure>
 
 === "Settings"
@@ -172,7 +172,7 @@ Listen on [Spotify][1] & [Bandcamp][2]
 ### BT Vintage Oilcan Echo TLE-2S
 
 <figure>
-<img src="https://5-72.com/assets/images/chains/arigto-threat-that-lies-in-despair/bus/bt-vintage-oilcan-echo-tle-2s.png" width="700" />
+<img src="https://5-72.com/assets/images/chains/002-arigto-threat-that-lies-in-despair/bus/bass/008-bt-vintage-oilcan-echo-tle-2s.png" width="700" />
 </figure>
 
 === "Settings"
@@ -191,7 +191,7 @@ Listen on [Spotify][1] & [Bandcamp][2]
 ### FabFilter Pro-Q3
 
 <figure>
-<img src="https://5-72.com/assets/images/chains/arigto-threat-that-lies-in-despair/bus/fabfilter-pro-q3.png" width="700" />
+<img src="https://5-72.com/assets/images/chains/002-arigto-threat-that-lies-in-despair/bus/bass/009-fabfilter-pro-q3.png" width="700" />
 </figure>
 
 === "EQ Band (Left)"

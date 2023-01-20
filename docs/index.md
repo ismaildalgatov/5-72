@@ -1,6 +1,6 @@
 ---
 template: overrides/main.html
-title: Chains
+title: Home page
 ---
 
 # How it works
@@ -13,7 +13,17 @@ Imagine a closed community of sound engineers who are constantly sharing new kno
 
 We are ready to share with you the details of how the mixing and mastering of any composition took place, demonstrating the bus of famous artists and composers. 5-72 immerses you in the atmosphere of endless chains, analog audio, and laborious work on every second of the composition.
 
+## Search
+
+[Vox-Lead][2], [Bass][3], [Synth][4], [Guitar][5], [Drums][6]
+
+  [2]: /?q=Vox-Lead
+  [3]: /?q=Bass
+  [4]: /?q=Synth
+  [5]: /?q=Guitar
+  [6]: /?q=Drums
+
 ## Contacts
 
 For cooperation: t@sesh.team / [telegram][1]
-  [1]: https://t.me/ismaildalgatov
+  [1]: https://t.me/teamseshisma

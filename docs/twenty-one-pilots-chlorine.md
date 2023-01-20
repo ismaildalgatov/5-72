@@ -6,7 +6,7 @@ title: Twenty One Pilots - «Chlorine»
 # Twenty One Pilots - «Chlorine»
 [![Cover][8]][8]
 
-  [8]: assets/images/chains/twenty-one-pilots-chlorine/cover.png
+  [8]: assets/images/chains/004-twenty-one-pilots-chlorine/cover.png
 
 [«Chlorine»][9] has been engineered by [Adam Hawkins][10].
 
@@ -14,10 +14,11 @@ title: Twenty One Pilots - «Chlorine»
   [10]: https://adamhawkins.com/
 
 ## Piano Loop
+
 ### TG12345
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/twenty-one-pilots-chlorine/bus/pianoloop/tg12345.png" width="600" />
+  <img src="https://5-72.com/assets/images/chains/004-twenty-one-pilots-chlorine/bus/pianoloop/001-tg12345.png" width="600" />
 </figure>
 
 === "Settings"
@@ -34,7 +35,7 @@ title: Twenty One Pilots - «Chlorine»
 ### FabFilter Pro-Q2
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/twenty-one-pilots-chlorine/bus/pianoloop/fabfilterproq2.png" width="600" />
+  <img src="https://5-72.com/assets/images/chains/004-twenty-one-pilots-chlorine/bus/pianoloop/002-fabfilterproq2.png" width="600" />
 </figure>
 
 === "Band-Green"
@@ -60,6 +61,7 @@ title: Twenty One Pilots - «Chlorine»
     ```
 
 ## Vox-Lead
+
 !!! error "Warning"
     ``` sh
     Input Signal in FabFilter was around -20db
@@ -69,7 +71,7 @@ title: Twenty One Pilots - «Chlorine»
 ### FabFilter Pro-Q2
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/twenty-one-pilots-chlorine/bus/voxlead/fabfilterproq2.png" width="600" />
+  <img src="https://5-72.com/assets/images/chains/004-twenty-one-pilots-chlorine/bus/voxlead/001-fabfilterproq2.png" width="600" />
 </figure>
 
 === "Band-Green"
@@ -106,7 +108,7 @@ title: Twenty One Pilots - «Chlorine»
 ### Scheps 73
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/twenty-one-pilots-chlorine/bus/voxlead/scheps73.png" width="600" />
+  <img src="https://5-72.com/assets/images/chains/004-twenty-one-pilots-chlorine/bus/voxlead/002-scheps73.png" width="600" />
 </figure>
 
 === "Settings"
@@ -118,7 +120,7 @@ title: Twenty One Pilots - «Chlorine»
 ### CLA-76
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/twenty-one-pilots-chlorine/bus/voxlead/cla76.png" width="600" />
+  <img src="https://5-72.com/assets/images/chains/004-twenty-one-pilots-chlorine/bus/voxlead/003-cla76.png" width="600" />
 </figure>
 
 === "Settings"
@@ -135,7 +137,7 @@ title: Twenty One Pilots - «Chlorine»
 ### dbx-160
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/twenty-one-pilots-chlorine/bus/voxlead/dbx-160.png" width="600" />
+  <img src="https://5-72.com/assets/images/chains/004-twenty-one-pilots-chlorine/bus/voxlead/004-dbx-160.png" width="600" />
 </figure>
 
 === "Settings"
@@ -149,7 +151,7 @@ title: Twenty One Pilots - «Chlorine»
 ### J37
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/twenty-one-pilots-chlorine/bus/voxlead/j37.png" width="600" />
+  <img src="https://5-72.com/assets/images/chains/004-twenty-one-pilots-chlorine/bus/voxlead/005-j37.png" width="600" />
 </figure>
 
 === "Settings"
@@ -165,7 +167,7 @@ title: Twenty One Pilots - «Chlorine»
 ### RDeEsser
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/twenty-one-pilots-chlorine/bus/voxlead/rdeesser.png" width="600" />
+  <img src="https://5-72.com/assets/images/chains/004-twenty-one-pilots-chlorine/bus/voxlead/006-rdeesser.png" width="600" />
 </figure>
 
 === "Settings"
@@ -177,7 +179,7 @@ title: Twenty One Pilots - «Chlorine»
 ### F6-RTA
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/twenty-one-pilots-chlorine/bus/voxlead/F6-RTA.png" width="600" />
+  <img src="https://5-72.com/assets/images/chains/004-twenty-one-pilots-chlorine/bus/voxlead/007-F6-RT" width="600" />
 </figure>
 
 === "High-pass"

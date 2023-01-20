@@ -6,7 +6,7 @@ title: The Weeknd - «Alone Again»
 # The Weeknd - «Alone Again»
 [![Cover][1]][1]
 
-  [1]: assets/images/chains/006-the-weeknd-alone-again/the-weeknd-alone-again-cover.png
+  [1]: assets/images/chains/006-the-weeknd-alone-again/cover.png
 
 [«Alone Again»][2] has been engineered by [Illangelo][3]
 
@@ -18,7 +18,7 @@ title: The Weeknd - «Alone Again»
 ### Pro-Q 3
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/006-the-weeknd-alone-again/001-pro-q-3.png" width="650" />
+  <img src="https://5-72.com/assets/images/chains/006-the-weeknd-alone-again/bus/voxlead/001-pro-q-3.png" width="650" />
 </figure>
 
 === "Settings"
@@ -54,7 +54,7 @@ title: The Weeknd - «Alone Again»
 ### Vocal Rider Mono
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/006-the-weeknd-alone-again/002-vocal-rider-mono.png" width="400" />
+  <img src="https://5-72.com/assets/images/chains/006-the-weeknd-alone-again/bus/voxlead/002-vocal-rider-mono.png" width="400" />
 </figure>
 
 === "Settings"
@@ -68,7 +68,7 @@ title: The Weeknd - «Alone Again»
 ### Pro-G
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/006-the-weeknd-alone-again/003-pro-g.png" width="650" />
+  <img src="https://5-72.com/assets/images/chains/006-the-weeknd-alone-again/bus/voxlead/003-pro-g.png" width="650" />
 </figure>
 
 === "Settings"
@@ -86,7 +86,7 @@ title: The Weeknd - «Alone Again»
 ### DeBreath Mono
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/006-the-weeknd-alone-again/004-debreath-mono.png" width="400" />
+  <img src="https://5-72.com/assets/images/chains/006-the-weeknd-alone-again/bus/voxlead/004-debreath-mono.png" width="400" />
 </figure>
 
 === "Settings"
@@ -98,7 +98,7 @@ title: The Weeknd - «Alone Again»
 ### Eiosis E2Deesser
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/006-the-weeknd-alone-again/005-eiosis-e2deesser.png" width="650" />
+  <img src="https://5-72.com/assets/images/chains/006-the-weeknd-alone-again/bus/voxlead/005-eiosis-e2deesser.png" width="650" />
 </figure>
 
 === "Settings"
@@ -114,7 +114,7 @@ title: The Weeknd - «Alone Again»
 ### Pro-L 2
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/006-the-weeknd-alone-again/006pro-l-2.png" width="650" />
+  <img src="https://5-72.com/assets/images/chains/006-the-weeknd-alone-again/bus/voxlead/006-pro-l-2.png" width="650" />
 </figure>
 
 === "Settings"
@@ -131,7 +131,7 @@ title: The Weeknd - «Alone Again»
 ### Pro-MB
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/006-the-weeknd-alone-again/007pro-mb.png" width="650" />
+  <img src="https://5-72.com/assets/images/chains/006-the-weeknd-alone-again/bus/voxlead/007-pro-mb.png" width="650" />
 </figure>
 
 === "Settings"
@@ -168,7 +168,7 @@ title: The Weeknd - «Alone Again»
 ### Pro-DS
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/006-the-weeknd-alone-again/008-pro-ds.png" width="650" />
+  <img src="https://5-72.com/assets/images/chains/006-the-weeknd-alone-again/bus/voxlead/008-pro-ds.png" width="650" />
 </figure>
 
 === "Settings"
@@ -181,7 +181,7 @@ title: The Weeknd - «Alone Again»
 ### Maag EQ4
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/006-the-weeknd-alone-again/009-maag-eq4.png" width="650" />
+  <img src="https://5-72.com/assets/images/chains/006-the-weeknd-alone-again/bus/voxlead/009-maag-eq4.png" width="650" />
 </figure>
 
 === "Sub (10 Hz)"
@@ -212,7 +212,7 @@ title: The Weeknd - «Alone Again»
 ### Gem EQP
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/006-the-weeknd-alone-again/010-gem-eqp.png" width="650" />
+  <img src="https://5-72.com/assets/images/chains/006-the-weeknd-alone-again/bus/voxlead/010-gem-eqp.png" width="650" />
 </figure>
 
 === "Mid"
@@ -244,7 +244,7 @@ title: The Weeknd - «Alone Again»
 ### soothe2
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/006-the-weeknd-alone-again/011-soothe2.png" width="650" />
+  <img src="https://5-72.com/assets/images/chains/006-the-weeknd-alone-again/bus/voxlead/011-soothe2.png" width="650" />
 </figure>
 
 === "Settings"
@@ -271,7 +271,7 @@ title: The Weeknd - «Alone Again»
 ### Doubler4 Stereo
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/006-the-weeknd-alone-again/012-doubler4.png" width="650" />
+  <img src="https://5-72.com/assets/images/chains/006-the-weeknd-alone-again/bus/voxlead/012-doubler4.png" width="650" />
 </figure>
 
 === "Settings"

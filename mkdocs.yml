@@ -139,15 +139,14 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Database:
-      - index.md
-      - Chains:
-          - Zola Jesus - Exhumed: zola-jesus-exhumed.md
-          - Arigto - Threat that lies in despair: arigto-threat-that-lies-in-despair.md
-          - Kendrick Lamar, SZA - All The Stars: kendrick-lamar-sza-all-the-stars.md
-          - Twenty One Pilots - Chlorine: twenty-one-pilots-chlorine.md
-          - The Monuments, Mick Gordon - Lavos: monuments-mick-gordon-lavos.md
-          - The Weeknd - Alone Again: the-weeknd-alone-again.md
-          - Other:
-              - Drum Machines: drum-machines/list.md
-  - Changelog: changelog.md
+  - Chains:
+      - How it works: index.md
+      - Zola Jesus - Exhumed: zola-jesus-exhumed.md
+      - Arigto - Threat that lies in despair: arigto-threat-that-lies-in-despair.md
+      - Kendrick Lamar, SZA - All The Stars: kendrick-lamar-sza-all-the-stars.md
+      - Twenty One Pilots - Chlorine: twenty-one-pilots-chlorine.md
+      - The Monuments, Mick Gordon - Lavos: monuments-mick-gordon-lavos.md
+      - The Weeknd - Alone Again: the-weeknd-alone-again.md
+      - Other:
+          - Drum Machines: drum-machines/list.md
+  - What's new?: changelog.md
