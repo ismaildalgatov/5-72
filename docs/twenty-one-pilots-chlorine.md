@@ -179,7 +179,7 @@ title: Twenty One Pilots - «Chlorine»
 ### F6-RTA
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/004-twenty-one-pilots-chlorine/bus/voxlead/007-F6-RT" width="600" />
+  <img src="https://5-72.com/assets/images/chains/004-twenty-one-pilots-chlorine/bus/voxlead/007-F6-RTA.png" width="600" />
 </figure>
 
 === "High-pass"
