@@ -150,7 +150,7 @@ title: Zola Jesus - «Exhumed»
 ### EQ3 7-Band (Post Reverb)
 [![EQ3 7-Band (Post Reverb)][7]][7]
 
-  [7]: docs/assets/images/chains/001-zola-jesus-exhumed/bus/voxlead/005-eq-7-band-post-verb.png
+  [7]: assets/images/chains/001-zola-jesus-exhumed/bus/voxlead/005-eq-7-band-post-verb.png
 
 === "HPF" 
 
