@@ -5,6 +5,19 @@ title: What's new?
 
 # Changelog
 
+### <small>March 6, 2023</small>
+
+- Added 2BusOut for [Monuments & Mick Gordon - «Lavos»][10]
+- Added 2BusOut for [Adele - «Rolling In The Deep»][11]
+- Added 2BusOut for [Jeff Buckley - «Hallelujah»][12]
+- Added 2BusOut for [slowthai - «feel away» ft. James Blake, Mount Kimbie][13]
+- Change menu structure
+- Added 2BusOut tag for Home Page
+  [10]: https://5-72.com/monuments-mick-gordon-lavos/
+  [11]: https://5-72.com/adele-rolling-in-the-deep/
+  [12]: https://5-72.com/jeff-buckley-hallelujah/
+  [13]: https://5-72.com/slowthai-feel-away/
+
 ### <small>January 20, 2023</small>
 
 - Added Vox-Lead [The Weeknd - «Alone Again»][9]

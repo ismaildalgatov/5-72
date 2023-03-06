@@ -15,13 +15,14 @@ We are ready to share with you the details of how the mixing and mastering of an
 
 ## Search
 
-[Vox-Lead][2], [Bass][3], [Synth][4], [Guitar][5], [Drums][6]
+[Vox-Lead][2], [Bass][3], [Synth][4], [Guitar][5], [Drums][6], [2BusOut][7]
 
   [2]: /?q=Vox-Lead
   [3]: /?q=Bass
   [4]: /?q=Synth
   [5]: /?q=Guitar
   [6]: /?q=Drums
+  [7]: /?q=2BusOut
 
 ## Contacts
 
