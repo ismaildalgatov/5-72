@@ -6,7 +6,7 @@ title: Arigto - «Threat that lies in despair»
 # Arigto - «Threat that lies in despair»
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/002-arigto-threat-that-lies-in-despair/cover.png"/>
+  <img src="https://ismaildalgatov.github.io/5-72/assets/images/chains/002-arigto-threat-that-lies-in-despair/cover.png"/>
 </figure>
 
 
@@ -22,13 +22,13 @@ Listen on [Spotify][1] & [Bandcamp][2]
 ### Prophet-6
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/002-arigto-threat-that-lies-in-despair/bus/bass/001-prophet-6.jpg" width="700" />
+  <img src="https://ismaildalgatov.github.io/5-72/assets/images/chains/002-arigto-threat-that-lies-in-despair/bus/bass/001-prophet-6.jpg" width="700" />
 </figure>
 
 ### E-TubeTape Warmer
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/002-arigto-threat-that-lies-in-despair/bus/bass/002-e-tubetape-warmer.png" width="600" />
+  <img src="https://ismaildalgatov.github.io/5-72/assets/images/chains/002-arigto-threat-that-lies-in-despair/bus/bass/002-e-tubetape-warmer.png" width="600" />
 </figure>
 
 === "Settings"
@@ -46,7 +46,7 @@ Listen on [Spotify][1] & [Bandcamp][2]
 ### TR5 Bus Compressor
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/002-arigto-threat-that-lies-in-despair/bus/bass/003-tr5-bus-compressor.png" width="600" />
+  <img src="https://ismaildalgatov.github.io/5-72/assets/images/chains/002-arigto-threat-that-lies-in-despair/bus/bass/003-tr5-bus-compressor.png" width="600" />
 </figure>
 
 === "Settings"
@@ -63,7 +63,7 @@ Listen on [Spotify][1] & [Bandcamp][2]
 ### FabFilter Pro-Q3
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/002-arigto-threat-that-lies-in-despair/bus/bass/004-fabfilter-pro-q3.png" width="700" />
+  <img src="https://ismaildalgatov.github.io/5-72/assets/images/chains/002-arigto-threat-that-lies-in-despair/bus/bass/004-fabfilter-pro-q3.png" width="700" />
 </figure>
 
 === "EQ Band (Left)"

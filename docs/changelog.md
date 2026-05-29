@@ -13,10 +13,10 @@ title: What's new?
 - Added 2BusOut for [slowthai - «feel away» ft. James Blake, Mount Kimbie][13]
 - Change menu structure
 - Added 2BusOut tag for Home Page
-  [10]: https://5-72.com/monuments-mick-gordon-lavos/
-  [11]: https://5-72.com/adele-rolling-in-the-deep/
-  [12]: https://5-72.com/jeff-buckley-hallelujah/
-  [13]: https://5-72.com/slowthai-feel-away/
+  [10]: https://ismaildalgatov.github.io/5-72/monuments-mick-gordon-lavos/
+  [11]: https://ismaildalgatov.github.io/5-72/adele-rolling-in-the-deep/
+  [12]: https://ismaildalgatov.github.io/5-72/jeff-buckley-hallelujah/
+  [13]: https://ismaildalgatov.github.io/5-72/slowthai-feel-away/
 
 ### <small>January 20, 2023</small>
 
@@ -25,7 +25,7 @@ title: What's new?
 - Update Index page and Changelog titles
 - Change menu structure
 - Added Search tags for Home Page
-  [9]: https://5-72.com/the-weeknd-alone-again/
+  [9]: https://ismaildalgatov.github.io/5-72/the-weeknd-alone-again/
 
 ### <small>August 23, 2022</small>
 
@@ -36,15 +36,15 @@ title: What's new?
 
 - New track [Monuments & Mick Gordon - «Lavos»][8]
 - New track [The Weeknd - «Alone Again»][7]
-  [8]: https://5-72.com/monuments-mick-gordon-lavos/
-  [7]: https://5-72.com/the-weeknd-alone-again/
+  [8]: https://ismaildalgatov.github.io/5-72/monuments-mick-gordon-lavos/
+  [7]: https://ismaildalgatov.github.io/5-72/the-weeknd-alone-again/
 
 ### <small>October 10, 2021</small>
 
 - New chain [Arigto - «Threat that lies in despair»][6]
 - Updated page structure
 - Deleted comments and analytics
-  [6]: https://5-72.com/arigto-threat-that-lies-in-despair/
+  [6]: https://ismaildalgatov.github.io/5-72/arigto-threat-that-lies-in-despair/
 
 ### <small>September 29, 2021</small>
 
@@ -55,24 +55,24 @@ title: What's new?
 ### <small>June 11, 2021</small>
 
 - Added [Drum machines with 385 Drum sets][5]
-  [5]: https://5-72.com/drum-machines/list/
+  [5]: https://ismaildalgatov.github.io/5-72/drum-machines/list/
 
 ### <small>May 26, 2021</small>
 
 - Added Vox-Lead for [Zola Jesus - «Exhumed»][4]
-  [4]: https://5-72.com/zola-jesus-exhumed/
+  [4]: https://ismaildalgatov.github.io/5-72/zola-jesus-exhumed/
 
 ### <small>May 18, 2021</small>
 
 - Added Piano Loop for [Twenty One Pilots - «Chlorine»][3]
-  [3]: https://5-72.com/twenty-one-pilots-chlorine/
+  [3]: https://ismaildalgatov.github.io/5-72/twenty-one-pilots-chlorine/
 
 ### <small>May 16, 2021</small>
 
 - Added new chain [Kendrick Lamar, SZA - «All The Stars»][2]
-  [2]: https://5-72.com/kendrick-lamar-sza-all-the-stars/
+  [2]: https://ismaildalgatov.github.io/5-72/kendrick-lamar-sza-all-the-stars/
 
 ### <small>May 13, 2021</small>
 
 - Added first chain [Twenty One Pilots - «Chlorine»][1]
-  [1]: https://5-72.com/twenty-one-pilots-chlorine/
+  [1]: https://ismaildalgatov.github.io/5-72/twenty-one-pilots-chlorine/
