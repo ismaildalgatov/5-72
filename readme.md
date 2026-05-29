@@ -1,5 +1,5 @@
 [![5-72](https://user-images.githubusercontent.com/29144912/130984498-4213a6d8-7ec6-499d-95f7-fd870e3f69b7.png)](https://ismaildalgatov.github.io/5-72/chains)
-[![Discord](https://img.shields.io/discord/711933585963089960?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://sesh.link/id/)
+[![Discord](https://img.shields.io/discord/711933585963089960?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/invite/DeaVa9QWUG)
 [![build](https://github.com/ismaildalgatov/5-72/actions/workflows/mkdocs-deploy.yml/badge.svg?branch=main)](https://github.com/ismaildalgatov/5-72/actions/workflows/mkdocs-deploy.yml)
 [![CC-BY-4.0 License](https://img.shields.io/github/license/ismaildalgatov/5-72?&logo=github)](License)
 [![5-72's Stargazers](https://img.shields.io/github/stars/ismaildalgatov/5-72?label=stars&logo=github)](https://github.com/ismaildalgatov/5-72/stargazers)
