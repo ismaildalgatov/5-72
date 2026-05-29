@@ -99,7 +99,7 @@ Listen on [Spotify][1] & [Bandcamp][2]
 ### British Tone Equalizer BQ2S
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/002-arigto-threat-that-lies-in-despair/bus/bass/005-british-tone-equalizer-bq2s.png" width="700" />
+  <img src="https://ismaildalgatov.github.io/5-72/assets/images/chains/002-arigto-threat-that-lies-in-despair/bus/bass/005-british-tone-equalizer-bq2s.png" width="700" />
 </figure>
 
 === "Settings"
@@ -121,7 +121,7 @@ Listen on [Spotify][1] & [Bandcamp][2]
 ### FabFilter Pro-Q3
 
 <figure>
-  <img src="https://5-72.com/assets/images/chains/002-arigto-threat-that-lies-in-despair/bus/bass/006-fabfilter-pro-q3.png" width="700" />
+  <img src="https://ismaildalgatov.github.io/5-72/assets/images/chains/002-arigto-threat-that-lies-in-despair/bus/bass/006-fabfilter-pro-q3.png" width="700" />
 </figure>
 
 === "EQ Band (Left)"
@@ -157,7 +157,7 @@ Listen on [Spotify][1] & [Bandcamp][2]
 ### AutoPan
 
 <figure>
-<img src="https://5-72.com/assets/images/chains/002-arigto-threat-that-lies-in-despair/bus/bass/007-autopan.png" width="300" />
+<img src="https://ismaildalgatov.github.io/5-72/assets/images/chains/002-arigto-threat-that-lies-in-despair/bus/bass/007-autopan.png" width="300" />
 </figure>
 
 === "Settings"
@@ -172,7 +172,7 @@ Listen on [Spotify][1] & [Bandcamp][2]
 ### BT Vintage Oilcan Echo TLE-2S
 
 <figure>
-<img src="https://5-72.com/assets/images/chains/002-arigto-threat-that-lies-in-despair/bus/bass/008-bt-vintage-oilcan-echo-tle-2s.png" width="700" />
+<img src="https://ismaildalgatov.github.io/5-72/assets/images/chains/002-arigto-threat-that-lies-in-despair/bus/bass/008-bt-vintage-oilcan-echo-tle-2s.png" width="700" />
 </figure>
 
 === "Settings"
@@ -191,7 +191,7 @@ Listen on [Spotify][1] & [Bandcamp][2]
 ### FabFilter Pro-Q3
 
 <figure>
-<img src="https://5-72.com/assets/images/chains/002-arigto-threat-that-lies-in-despair/bus/bass/009-fabfilter-pro-q3.png" width="700" />
+<img src="https://ismaildalgatov.github.io/5-72/assets/images/chains/002-arigto-threat-that-lies-in-despair/bus/bass/009-fabfilter-pro-q3.png" width="700" />
 </figure>
 
 === "EQ Band (Left)"
